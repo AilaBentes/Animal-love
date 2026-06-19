@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Projeto Animal Love
 
-Este projeto foi desenvolvido na Universidade Federal da Fronteira Sul (UFFS) em conjunto com mais duas integrantes da equipe.
+Este projeto foi desenvolvido na máteria de "Desenvolvimento Web" na Universidade Federal da Fronteira Sul (UFFS) em conjunto com mais duas integrantes da equipe.
 O projeto se chama Animal Love e foi criado com o objetivo de contribuir para a proteção e o bem-estar animal por meio de uma plataforma digital acessível e intuitiva.
 A ideia surgiu da necessidade de facilitar a conexão entre pessoas que desejam ajudar animais e instituições que atuam nessa causa. Por meio do sistema, os usuários podem
 adotar animais, cadastrar pets para adoção, realizar denúncias de maus-tratos, cadastrar ONGs, participar como voluntários e fazer doações para apoiar ações de proteção animal.
